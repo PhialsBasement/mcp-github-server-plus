@@ -1,4 +1,5 @@
 # GitHub MCP Server Plus
+![Downloads](https://img.shields.io/github/downloads/PhialsBasement/mcp-github-server-plus/total)
 
 MCP Server for the GitHub API, enabling file operations, repository management, search functionality, and more.
 
