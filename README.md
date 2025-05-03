@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/phialsbasement-mcp-github-server-plus-badge.png)](https://mseep.ai/app/phialsbasement-mcp-github-server-plus)
+
 # GitHub MCP Server Plus
 ![npm downloads](https://img.shields.io/npm/dt/improved-github-mcp)
 
