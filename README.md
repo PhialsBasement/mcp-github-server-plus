@@ -2,6 +2,7 @@
 
 # GitHub MCP Server Plus
 ![npm downloads](https://img.shields.io/npm/dt/improved-github-mcp)
+[![smithery badge](https://smithery.ai/badge/@PhialsBasement/mcp-github-server-plus)](https://smithery.ai/server/@PhialsBasement/mcp-github-server-plus)
 
 MCP Server for the GitHub API, enabling file operations, repository management, search functionality, and more.
 
@@ -327,6 +328,14 @@ For detailed search syntax, see [GitHub's searching documentation](https://docs.
    - Create a token with the `repo` scope ("Full control of private repositories")
      - Alternatively, if working only with public repositories, select only the `public_repo` scope
    - Copy the generated token
+
+### Installing via Smithery
+
+To install GitHub MCP Server Plus for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@PhialsBasement/mcp-github-server-plus):
+
+```bash
+npx -y @smithery/cli install @PhialsBasement/mcp-github-server-plus --client claude
+```
 
 ### Usage with Claude Desktop
 To use this with Claude Desktop, add the following to your `claude_desktop_config.json`:
